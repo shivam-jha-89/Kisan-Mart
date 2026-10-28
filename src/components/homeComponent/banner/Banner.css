@@ -1,0 +1,21 @@
+.wrapper {
+    position: absolute;
+    top: 36%;
+    left: 32%;
+    z-index: 999;
+}
+
+.home1Img {
+    opacity: 70%;
+    background-color: rgba(0, 0, 0, 0.8);
+    filter: brightness(80%);
+}
+.equipImg {
+    max-width: 100%;
+    border-radius: 4px;
+    opacity: 0.92;
+}
+
+.slider-wrapper {
+    height: 500px;
+}

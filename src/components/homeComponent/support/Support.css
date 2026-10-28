@@ -1,0 +1,14 @@
+.supportImg {
+    height: 70px;
+    width: 70px;
+    margin: auto;
+}
+
+.supportItem {
+    background: #FFFFFF;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.12);
+}
+
+.getMargin {
+    margin-bottom: 10px;
+}
